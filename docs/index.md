@@ -5,7 +5,7 @@
 ## Overview
 
 The Davis Rig is a brief-access task rig designed for rats, primarily for the purpose of investigating behavioral responses. This documentation provides an overview of the hardware setup, software configuration, experimental protocols, data exporting, and data analysis.
-
+<img src="images/davisrig.png" alt="Davis Rig" width="400px">
 ---
 
 ## Table of Contents
@@ -14,6 +14,7 @@ The Davis Rig is a brief-access task rig designed for rats, primarily for the pu
 - [Software](#software)
 - [Experimental Protocols](#experimental-protocols)
 - [Data Exporting](#data-exporting)
+- [Basic Analysis Tools](#BAT-install)
 - [Data Analysis](#data-analysis)
 
 ---

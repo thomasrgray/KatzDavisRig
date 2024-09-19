@@ -9,4 +9,5 @@ nav:
   - Software: software.md
   - Experimental Protocols: experimental-protocols.md
   - Data Exporting: data-exporting.md
+  - Basic Analysis Tools: BAT-install.md
   - Data Analysis: data-analysis.md
