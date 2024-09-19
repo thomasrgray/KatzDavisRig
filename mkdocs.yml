@@ -1,0 +1,12 @@
+site_name: Katz Davis Rig Documentation
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+
+nav:
+  - Overview: index.md
+  - Hardware: hardware.md
+  - Software: software.md
+  - Experimental Protocols: experimental-protocols.md
+  - Data Exporting: data-exporting.md
+  - Data Analysis: data-analysis.md
