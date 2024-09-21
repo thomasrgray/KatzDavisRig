@@ -12,6 +12,7 @@ The Davis Rig is a brief-access task rig designed for rats, primarily for the pu
 - [Overview](#overview)
 - [Hardware](#hardware)
 - [Software](#software)
+- [Troubleshooting](#troubleshooting)
 - [Experimental Protocols](#experimental-protocols)
 - [Data Exporting](#data-exporting)
 - [Basic Analysis Tools](#BAT-install)

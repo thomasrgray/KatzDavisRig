@@ -38,7 +38,6 @@ To remove the door assembly for cleaning:
 1. Remove the thumbscrew.
 2. Lift the assembly off the mounting stud.
 
-![Access Door Removal](images/access-door-removal.png)
 
 ## Grid Floor Installation/Removal
 1. Gently pull the chamber top release knob.

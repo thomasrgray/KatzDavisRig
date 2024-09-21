@@ -7,6 +7,7 @@ nav:
   - Overview: index.md
   - Hardware: hardware.md
   - Software: software.md
+  - Troubleshooting: troubleshooting.md
   - Experimental Protocols: experimental-protocols.md
   - Data Exporting: data-exporting.md
   - Basic Analysis Tools: BAT-install.md
