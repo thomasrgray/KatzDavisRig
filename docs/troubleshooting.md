@@ -10,11 +10,11 @@
 **A:** The checkbox for the Davis rig needs to be checked.
 
 ## Licking sensitivity
-**Q:** When the animal isn't at the spout or licking the bottle, a lick is being registered. 
+**Q:** When the animal isn't at the spout or licking the bottle, a lick is being registered.  
 **A:** Check the latency of the lick and if it happens on another trial the sensitivity may be set too high. To fix this look at the value of the turnable knob on the tan box. The normal value should be 5.5.
 
 ## Bottle weight doesn't change
-**Q:** After the experiment even though the animal was registering licks the bottle weight did not change.
+**Q:** After the experiment even though the animal was registering licks the bottle weight did not change.  
 **A:** This is likely due to the air in the spout preventing the liquid from coming down into the spout. Even when properly "charging" or shaking out the spout this can sometimes happen. Make sure there is no air in the spout thoroughly.
 
 ## VNC Remote Access Issue
