@@ -3,12 +3,12 @@
 ## Chamber Installation
 Attach the chamber to the Davis Rig platform by aligning the chamber’s front feet with the chamber mounting guide holes on the platform.
 
-![Chamber Installation](images/chamber-installation.png)
+![Chamber Installation](images/chamberinstallation.png)
 
 ## Bottle Installation
 Install up to 16 bottles into their desired lick block locations.
 
-![Bottle Installation](images/bottle-installation.png)
+![Bottle Installation](images/bottleinstallation.png)
 
 ## Chamber Alignment
 To align the chamber with the lick block faceplate:
@@ -16,7 +16,7 @@ To align the chamber with the lick block faceplate:
 2. Slide the mounting guide and chamber until the lick block hole is centered in the chamber access hole.
 3. Retighten the thumbscrews to secure placement.
 
-![Chamber Access Alignment](images/chamber-access-alignment.png)
+![Chamber Access Alignment](images/chamberaccessalignment.png)
 
 ## Chamber Spacing
 To adjust the spacing between the chamber and lick block:
@@ -24,14 +24,14 @@ To adjust the spacing between the chamber and lick block:
 2. Move the carriage towards the chamber to reduce space or away to increase space.
 3. Retighten the thumbscrews to secure.
 
-![Chamber Spacing](images/chamber-spacing.png)
+![Chamber Spacing](images/chamberspacing.png)
 
 ## Access Door Position
 To adjust the access door so it doesn’t completely close:
 1. Turn the thumbscrew clockwise to raise the door.
 2. Turn counterclockwise to lower the door.
 
-![Access Door Adjustment](images/access-door-adjustment.png)
+![Access Door Adjustment](images/accessdooradjustment.png)
 
 ## Access Door Removal
 To remove the door assembly for cleaning:
@@ -44,7 +44,7 @@ To remove the door assembly for cleaning:
 2. Remove the chamber top and grid floor.
 3. Reinstall the desired floor and replace the chamber top.
 
-![Grid Floor Installation/Removal](images/grid-floor-installation.png)
+![Grid Floor Installation/Removal](images/gridfloorinstallation.png)
 
 ## Cleaning and Maintenance
 For optimal performance:

@@ -8,7 +8,7 @@ The Davis Rig software is designed to facilitate experiments with protocols that
 
 ## Main Screen Overview
 
-**Figure 4-2 – Davis Rig Main Screen**
+![Davis Rig Main Screen](images/davis_rig)
 
 ---
 
@@ -76,7 +76,7 @@ When this box is checked, any retries needed for a presentation will be included
 ### Notice
 By default, **MED Davis Rig** is checked. If using this software with DiLog Instruments hardware, refer to **Appendix A** for Davis Collect Data with DiLog Hardware.
 
-![Davis Rig Main Screen](path_to_image_figure_4_2)
+![Davis Rig Main Screen](images/davis_rig)
 
 ### Trial Protocol Panel
 
@@ -133,7 +133,7 @@ Check this box to include retry counts in the data file.
 ### Test Hardware Button
 Opens the **Test Hardware** window, allowing you to test the Davis Rig table and adjust the table movement direction. The table holds drinking tubes and positions them in front of the access port. It is moved by a stepper motor system.
 
-![Test Hardware](path_to_image_figure_4_6)
+![Test Hardware](images/test_table)
 
 #### Show Table Movement Direction Window Button
 Opens a window to change table movement direction.
